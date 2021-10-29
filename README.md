@@ -12,4 +12,4 @@ Created by Felicia Olsson
 v.1.3.0 © 2021
 
 ## Feel free to use the code and layout for whatever purposes, 
-## if you do a full copy paste of my projects source code id appreciate if you referred back to this repo.
+### if you do a full copy paste of my projects source code id appreciate if you referred back to this repo.
