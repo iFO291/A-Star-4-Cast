@@ -48,6 +48,7 @@ class WeatherViewModel : ViewModel() {
     val uiSuccess = MutableLiveData<Boolean>()
 
     private fun doUpdateWeather(aCityName: String) {
+        // TODO: Fix Network Layers properly, this shouldnt be in here really
         val client = RetrofitClient()
         val retro = client.getClient()
 
