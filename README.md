@@ -1,6 +1,6 @@
 # A*star 4-cast
 School project made in android studio using Kotlin, SQLite and free API from OpenWeatherMap.org.
-A weather forecast app with C(U)RD operations on your list of favorites with SQLite database. Developed during @Krillinator https://github.com/Krillinator course at EC Education in Malmö.
+A weather forecast app with C(U)RD operations on your list of favorites with SQLite database. Developed during @Krillinator´s https://github.com/Krillinator course at EC Education in Malmö.
 
 Icons made by Mehwish from www.flaticon.com
 
