@@ -7,9 +7,7 @@
 /.idea/assetWizardSettings.xml
 /build
 /captures
-# .externalNativeBuild
 .cxx
-# local.properties
 
 # Created by https://www.toptal.com/developers/gitignore/api/androidstudio,kotlin,windows,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=androidstudio,kotlin,windows,java
