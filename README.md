@@ -8,6 +8,8 @@ Weather information layout inspired by @evanemran https://github.com/evanemran/W
 
 Gradient background inspired by JakeLee https://blog.jakelee.co.uk/a-few-experiments-with-android-drawable-gradients/
 
+![]illustration.gif)
+
 Created by Felicia Olsson
 v.1.3.0 © 2021
 
