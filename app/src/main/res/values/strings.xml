@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">A*star 4-cast</string>
+    <string name="title_favorites">A*star</string>
+    <string name="title_weather">4-cast</string>
+    <string name="title_info">About</string>
+
+    <!-- fragment_favorites.xml -->
+    <string name="favorite_list_btn">Favorites List</string>
+    <string name="empty_list_btn">EMPTY LIST</string>
+    <string name="text_off_toggle">EDIT</string>
+    <string name="text_on_toggle">BACK</string>
+    <string name="delete_row_info">Select one item in your list to delete it</string>
+
+    <!-- fragment_weather.xml -->
+    <string name="search_input">Enter City</string>
+    <string name="search_btn">SEARCH</string>
+    <string name="add_favorite_btn">A*save</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="wind">Wind Speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="sunset">Sunset</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather_description_icon">ICON</string>
+    <string name="icon_made_by">Icon made by Mehwis from flaticon.com</string>
+
+    <!-- fragment_info.xml -->
+    <string name="header_info">A*star 4-cast</string>
+    <string name="api_cred">Weather forecast free API from <a href="https://openweathermap.org/">OpenWeatherMap.org</a>.
+        Icons made by
+        <a href="https://www.flaticon.com/authors/mehwish" title="Mehwish">Mehwish</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon.com</a>.
+        Weather information layout inspired by
+        <a href="https://github.com/evanemran/WeatherApp" title="evanemran">@evanemran</a>
+        and gradient background inspired by
+        <a href="https://blog.jakelee.co.uk/a-few-experiments-with-android-drawable-gradients/" title="JakeLee">JakeLee</a>.
+    </string>
+    <string name="about_text">A weather forecast app with C(U)RD operations on your list of favorites with SQLite database. Developed during
+        <a href="https://github.com/Krillinator" title="Krillinator">@Krillinator</a>
+        s course at EC Education in Malmö.</string>
+    <string name="author">Created by Felicia Olsson </string>
+    <string name="version_year">v.1.3.0 © <a href="https://github.com/iFLil291">@iFlil291</a> 2021</string>
+
+</resources>
