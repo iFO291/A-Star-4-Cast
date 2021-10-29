@@ -51,9 +51,9 @@ class WeatherViewModel : ViewModel() {
         val client = RetrofitClient()
         val retro = client.getClient()
 
-        val units = "metric"
-        val lang = "en"
-        val key = "d32904886bfb4a32ef0e5759dea52809"
+        val units = "metric" // °C and weatherformat stuff
+        val lang = "en" // choose language output from OpenWeatherMaps alternative
+        val key = "" // Insert your own api-key here!
 
         val service = retro.create(WeatherService::class.java)
         val call = service.getWeather(aCityName, units, lang, key)
