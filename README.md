@@ -8,7 +8,7 @@ Weather information layout inspired by @evanemran https://github.com/evanemran/W
 
 Gradient background inspired by JakeLee https://blog.jakelee.co.uk/a-few-experiments-with-android-drawable-gradients/
 <p align="center">
-  ![](illustration.gif)
+  <img src=" ![](illustration.gif)" alt="gif illustration of a*star 4-cast"/>
 </p>
 
 Created by Felicia Olsson
