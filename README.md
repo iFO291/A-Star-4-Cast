@@ -15,4 +15,4 @@ Created by Felicia Olsson 2021
 v.1.3.0
 
 ## Feel free to use the code and layout for whatever purposes, 
-if you do a full copy paste of my projects source code id appreciate if you referred back to this repo.
+if you do a full copy paste of my projects source code i would appreciate if you referred back to this repo.
