@@ -11,8 +11,8 @@ Gradient background inspired by JakeLee https://blog.jakelee.co.uk/a-few-experim
   <img src="https://raw.githubusercontent.com/iFLil291/aStar4Cast/main/illustration.gif" alt="gif illustration of a*star 4-cast"/>
 </p>
 
-Created by Felicia Olsson
-v.1.3.0 © 2021
+Created by Felicia Olsson 2021 
+v.1.3.0
 
 ## Feel free to use the code and layout for whatever purposes, 
 if you do a full copy paste of my projects source code id appreciate if you referred back to this repo.
